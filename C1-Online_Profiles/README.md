@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+- github.com/papismurf08
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+- www.linkedin.com/in/michael-montalvan-563098b5
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+- https://drive.google.com/file/d/1hDzrXCdOyb_Xuagr5Zr9iPq5h_tAsBvr/view?usp=sharing
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
